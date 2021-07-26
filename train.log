@@ -1,0 +1,169 @@
+INFO:root:Number of train datapoints is 1037
+INFO:root:Number of samples in train dataset 1037
+DEBUG:root:Starting training
+DEBUG:root:Epoch 0
+DEBUG:root:Critic training done in epoch 0
+DEBUG:root:Encoder decoder training done in epoch 0
+DEBUG:root:critic x loss 0.087 critic z loss 0.344 
+encoder loss -0.030 decoder loss -0.257
+
+INFO:root:Number of train datapoints is 2723
+INFO:root:Number of samples in train dataset 2723
+DEBUG:root:Starting training
+DEBUG:root:Epoch 0
+INFO:root:Number of train datapoints is 2723
+INFO:root:Number of samples in train dataset 2723
+DEBUG:root:Starting training
+DEBUG:root:Epoch 0
+INFO:root:Number of train datapoints is 2723
+INFO:root:Number of samples in train dataset 2723
+DEBUG:root:Starting training
+DEBUG:root:Epoch 0
+INFO:root:Number of train datapoints is 2723
+INFO:root:Number of samples in train dataset 2723
+DEBUG:root:Starting training
+DEBUG:root:Epoch 0
+INFO:root:Number of train datapoints is 0
+INFO:root:Number of samples in train dataset 0
+DEBUG:root:Starting training
+DEBUG:root:Epoch 0
+DEBUG:root:Critic training done in epoch 0
+DEBUG:root:Encoder decoder training done in epoch 0
+DEBUG:root:critic x loss nan critic z loss nan 
+encoder loss nan decoder loss nan
+
+INFO:root:Number of train datapoints is 2723
+INFO:root:Number of samples in train dataset 2723
+DEBUG:root:Starting training
+DEBUG:root:Epoch 0
+INFO:root:Number of train datapoints is 2723
+INFO:root:Number of samples in train dataset 2723
+DEBUG:root:Starting training
+DEBUG:root:Epoch 0
+INFO:root:Number of train datapoints is 2723
+INFO:root:Number of samples in train dataset 2723
+DEBUG:root:Starting training
+DEBUG:root:Epoch 0
+DEBUG:root:Critic training done in epoch 0
+DEBUG:root:Encoder decoder training done in epoch 0
+DEBUG:root:critic x loss 21.670 critic z loss -0.168 
+encoder loss 2591.797 decoder loss 2612.747
+
+INFO:root:Number of train datapoints is 1037
+INFO:root:Number of samples in train dataset 1037
+DEBUG:root:Starting training
+DEBUG:root:Epoch 0
+DEBUG:root:Critic training done in epoch 0
+DEBUG:root:Encoder decoder training done in epoch 0
+DEBUG:root:critic x loss 0.084 critic z loss -0.231 
+encoder loss -0.026 decoder loss 0.310
+
+INFO:root:Number of train datapoints is 7124
+INFO:root:Number of samples in train dataset 7124
+DEBUG:root:Starting training
+DEBUG:root:Epoch 0
+DEBUG:root:Critic training done in epoch 0
+DEBUG:root:Encoder decoder training done in epoch 0
+DEBUG:root:critic x loss -5705.332 critic z loss 0.327 
+encoder loss 284681184.000 decoder loss 284674432.000
+
+INFO:root:Number of train datapoints is 7124
+INFO:root:Number of samples in train dataset 7124
+DEBUG:root:Starting training
+DEBUG:root:Epoch 0
+DEBUG:root:Critic training done in epoch 0
+DEBUG:root:Encoder decoder training done in epoch 0
+DEBUG:root:critic x loss -7498.614 critic z loss 0.158 
+encoder loss 284682528.000 decoder loss 284674112.000
+
+INFO:root:Number of train datapoints is 7124
+INFO:root:Number of samples in train dataset 7124
+DEBUG:root:Starting training
+DEBUG:root:Epoch 0
+DEBUG:root:Critic training done in epoch 0
+DEBUG:root:Encoder decoder training done in epoch 0
+DEBUG:root:critic x loss 7355.444 critic z loss 0.407 
+encoder loss 284668224.000 decoder loss 284674688.000
+
+INFO:root:Number of train datapoints is 7124
+INFO:root:Number of samples in train dataset 7124
+DEBUG:root:Starting training
+DEBUG:root:Epoch 0
+DEBUG:root:Critic training done in epoch 0
+DEBUG:root:Encoder decoder training done in epoch 0
+DEBUG:root:critic x loss 1975.577 critic z loss -0.205 
+encoder loss 284673440.000 decoder loss 284674560.000
+
+INFO:root:Number of train datapoints is 7124
+INFO:root:Number of samples in train dataset 7124
+DEBUG:root:Starting training
+DEBUG:root:Epoch 0
+DEBUG:root:Critic training done in epoch 0
+DEBUG:root:Encoder decoder training done in epoch 0
+DEBUG:root:critic x loss -1760.656 critic z loss -0.307 
+encoder loss 284677472.000 decoder loss 284674720.000
+
+INFO:root:Number of train datapoints is 7124
+INFO:root:Number of samples in train dataset 7124
+DEBUG:root:Starting training
+DEBUG:root:Epoch 0
+DEBUG:root:Critic training done in epoch 0
+DEBUG:root:Encoder decoder training done in epoch 0
+DEBUG:root:critic x loss -2567.014 critic z loss -0.649 
+encoder loss 284677856.000 decoder loss 284674528.000
+
+INFO:root:Number of train datapoints is 7124
+INFO:root:Number of samples in train dataset 7124
+DEBUG:root:Starting training
+DEBUG:root:Epoch 0
+DEBUG:root:Critic training done in epoch 0
+DEBUG:root:Encoder decoder training done in epoch 0
+DEBUG:root:critic x loss -1381.698 critic z loss -0.055 
+encoder loss 284676320.000 decoder loss 284674240.000
+
+INFO:root:Number of train datapoints is 7124
+INFO:root:Number of samples in train dataset 7124
+DEBUG:root:Starting training
+DEBUG:root:Epoch 0
+DEBUG:root:Critic training done in epoch 0
+INFO:root:Number of train datapoints is 7124
+INFO:root:Number of samples in train dataset 7124
+DEBUG:root:Starting training
+DEBUG:root:Epoch 0
+DEBUG:root:Critic training done in epoch 0
+INFO:root:Number of train datapoints is 7124
+INFO:root:Number of samples in train dataset 7124
+DEBUG:root:Starting training
+DEBUG:root:Epoch 0
+DEBUG:root:Critic training done in epoch 0
+DEBUG:root:Encoder decoder training done in epoch 0
+DEBUG:root:critic x loss 1297.866 critic z loss 0.164 
+encoder loss 284674336.000 decoder loss 284674624.000
+
+INFO:root:Number of train datapoints is 7124
+INFO:root:Number of samples in train dataset 7124
+DEBUG:root:Starting training
+DEBUG:root:Epoch 0
+DEBUG:root:Critic training done in epoch 0
+DEBUG:root:Encoder decoder training done in epoch 0
+DEBUG:root:critic x loss 3579.298 critic z loss 0.548 
+encoder loss 284671360.000 decoder loss 284674336.000
+
+INFO:root:Number of train datapoints is 7124
+INFO:root:Number of samples in train dataset 7124
+DEBUG:root:Starting training
+DEBUG:root:Epoch 0
+DEBUG:root:Critic training done in epoch 0
+DEBUG:root:Encoder decoder training done in epoch 0
+DEBUG:root:critic x loss -4673.695 critic z loss -0.237 
+encoder loss 284680288.000 decoder loss 284674592.000
+
+INFO:root:Number of train datapoints is 7124
+INFO:root:Number of samples in train dataset 7124
+DEBUG:root:Starting training
+DEBUG:root:Epoch 0
+DEBUG:root:Critic training done in epoch 0
+DEBUG:root:Encoder decoder training done in epoch 0
+DEBUG:root:critic x loss -7053.318 critic z loss -0.274 
+encoder loss 284682432.000 decoder loss 284674240.000
+
